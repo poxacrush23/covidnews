@@ -1,4 +1,4 @@
-![Screenshot](fogo azul.jpg)
+![Screenshot](fogoazul.jpg)
 
 # covidnews
 Repositório destinado as principais noticias relacionado a pandemia do covid-19

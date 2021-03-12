@@ -1,4 +1,4 @@
-![Screenshot](Logo world fk)
+![Screenshot](Logo world fk.png)
 
 # covidnews
 Repositório destinado as principais noticias relacionado a pandemia do covid-19
